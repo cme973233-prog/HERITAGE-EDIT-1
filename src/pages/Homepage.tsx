@@ -166,9 +166,9 @@ const Homepage = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                image: 'https://images.pexels.com/photos/8135592/pexels-photo-8135592.jpeg?auto=compress&cs=tinysrgb&w=800',
+                image: '/WhatsApp Image 2025-09-14 at 12.10.13_3afb98d0.jpg',
                 title: 'Grand Architecture',
-                description: 'Indo-Saracenic design elements'
+                description: 'Statue of Maharaja Vijaysinhji at Rajpipla'
               },
               {
                 image: 'https://images.pexels.com/photos/7901416/pexels-photo-7901416.jpeg?auto=compress&cs=tinysrgb&w=800',
