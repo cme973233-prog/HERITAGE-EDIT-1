@@ -171,9 +171,9 @@ const Homepage = () => {
                 description: 'Statue of Maharaja Vijaysinhji at Rajpipla'
               },
               {
-                image: 'https://images.pexels.com/photos/7901416/pexels-photo-7901416.jpeg?auto=compress&cs=tinysrgb&w=800',
+                image: '/WhatsApp Image 2025-09-14 at 12.25.15_57e941b0 copy.jpg',
                 title: 'Royal Interiors',
-                description: 'Opulent chambers and halls'
+                description: 'The Grand Main Hall'
               },
               {
                 image: 'https://images.pexels.com/photos/3894157/pexels-photo-3894157.jpeg?auto=compress&cs=tinysrgb&w=800',
