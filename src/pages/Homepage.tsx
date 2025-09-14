@@ -176,7 +176,7 @@ const Homepage = () => {
                 description: 'The Grand Main Hall'
               },
               {
-                image: 'https://images.pexels.com/photos/3894157/pexels-photo-3894157.jpeg?auto=compress&cs=tinysrgb&w=800',
+                image: '/WhatsApp Image 2025-09-14 at 01.35.33_b3f8c476.jpg',
                 title: 'Cultural Artifacts',
                 description: 'Ancient treasures and collections'
               }
